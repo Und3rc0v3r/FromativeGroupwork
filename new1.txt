@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <font>arial</font>
+    <title>The Internet and why it's the best application of computing</title>
+    <link rel="stylesheet" href="style.css">
+  <head>
+  <body>
+    <h1>Reasons</h1>
+	<ul<
+	  <li>It is the world's geatest source of information</li>
+          <li>It allows people to connect from opposite ends of the Earth</li>
+          <li>It is widely accessible to billions of people</li>
+        </ul>
+	<a href="https://en.wikipedia.org/wiki/Internet">The Internet</a>
+  </body>
+</html>
+	
