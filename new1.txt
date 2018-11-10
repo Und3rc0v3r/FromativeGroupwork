@@ -2,18 +2,25 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <font>arial</font>
-    <title>The Internet and why it's the best application of computing</title>
-    <link rel="stylesheet" href="style.css">
+    <title>The Internet</title>
+    <link rel="stylesheet">
   <head>
   <body>
-    <h1>Reasons</h1>
-	<ul<
-	  <li>It is the world's geatest source of information</li>
+    <h1>The Internet</h1>
+    <h2>Why is it so important?</h2>
+	    <ul>
+	      <li>It is the world's greatest source of information</li>
           <li>It allows people to connect from opposite ends of the Earth</li>
           <li>It is widely accessible to billions of people</li>
         </ul>
-	<a href="https://en.wikipedia.org/wiki/Internet">The Internet</a>
+	    <h3>More Info</h3>
+	    <a href="https://en.wikipedia.org/wiki/Internet">The Internet</a>
+		<p></p>
+		<p></p>
+		<p></p>
+		<p></p>
+		<p></p>
+		<img src="https://qph.fs.quoracdn.net/main-qimg-4e3406fbcf24139245d0cf78adc59b94-c">
   </body>
 </html>
 	
